@@ -23,5 +23,5 @@ Skills: Pyhton / C#/ JS / Django / Postgresql / MySql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Suhrob2107&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Suhrob2107)  
+
 
