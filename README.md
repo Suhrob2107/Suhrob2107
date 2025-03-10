@@ -1,17 +1,15 @@
 ### Hi there 👋, i am Sukhrobzhon
 #### Coder
-![Coder](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Hi,my name is Sukhrobzhon, i am 18 years old.I am software engineer student in Turkey.
 
-Skills: HTML / CSS/ JS / Python/ Postgresql 
+Skills: Pyhton / C#/ JS / Django / Postgresql / MySql
 
 - 🔭 I’m currently working on leetcode 
 - 🌱 I’m currently learning Python and DSA 
 - 👯 I’m looking to collaborate on backend projects 
 - 🤔 I’m looking for help with data structure and algorithms 
 - 💬 Ask me about frontend and backend frameworks 
-- 📫 How to reach me: email adres:talibzhanovsuhrob@gmail.com 
+- 📫 How to reach me: email adres:tolibjanov05@gmail.com
 - ⚡ Fun fact: University education is not obligatory 
 
 
