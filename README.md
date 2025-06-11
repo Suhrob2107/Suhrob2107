@@ -1,8 +1,8 @@
 ### Hi there 👋, i am Sukhrobzhon
 #### Coder
-Hi,my name is Sukhrobzhon, i am 18 years old.I am software engineer student in Turkey.
+Hi,my name is Sukhrobzhon, i am 20 years old.I am software engineer student in Turkey.
 
-Skills: Pyhton / C#/ JS / Django / Postgresql / MySql
+Skills: C#, ASP.NET, ASP.NET Core, ASP.NET Core MVC, JavaScript, Python, Django, MSSQL Server
 
 - 🔭 I’m currently working on leetcode 
 - 🌱 I’m currently learning Python and DSA 
